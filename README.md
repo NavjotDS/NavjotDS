@@ -23,5 +23,5 @@ I aspire to carve my path as a skilled data scientist, utilizing my knowledge an
 ### Let's Connect! 🌐
 Feel free to reach out and connect with me. I'm enthusiastic about discussing data, technology, and opportunities to learn and grow together.
 
-[LinkedIn](https://www.linkedin.com/in/navjot-singh-407550151/)
+[LinkedIn](https://www.linkedin.com/in/navjot-singh-407550151/)  
 📧 Email: nasingh.ds@gmail.com
