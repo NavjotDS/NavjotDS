@@ -1,7 +1,7 @@
 ## Hi there, I'm Navjot Singh! 👋
 
-🎓 Pursuing Master's in Big Data Analytics at Trent University, Peterborough  
-📅 Expected Graduation: April 2024  
+🎓 Master's in Big Data Analytics at Trent University, Peterborough  
+📅 Graduated in April 2024  
 🌟 Aspiring Data Scientist  
 
 ### About Me
